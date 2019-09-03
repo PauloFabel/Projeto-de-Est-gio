@@ -1,0 +1,11 @@
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\obj\Debug\netcoreapp2.2\Gafanhotos.csprojAssemblyReference.cache
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\obj\Debug\netcoreapp2.2\Gafanhotos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\obj\Debug\netcoreapp2.2\Gafanhotos.AssemblyInfoInputs.cache
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\obj\Debug\netcoreapp2.2\Gafanhotos.AssemblyInfo.cs
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\bin\Debug\netcoreapp2.2\Gafanhotos.deps.json
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\bin\Debug\netcoreapp2.2\Gafanhotos.runtimeconfig.json
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\bin\Debug\netcoreapp2.2\Gafanhotos.runtimeconfig.dev.json
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\bin\Debug\netcoreapp2.2\Gafanhotos.dll
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\bin\Debug\netcoreapp2.2\Gafanhotos.pdb
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\obj\Debug\netcoreapp2.2\Gafanhotos.dll
+C:\Users\Paulo Fabel\Documents\Projetos\C++\Gafanhotos\obj\Debug\netcoreapp2.2\Gafanhotos.pdb
